@@ -1,2 +1,4 @@
 # New_folder
-this is my first Git Repository.Author:Asheesh shrivas
+this is my first Git Repository.
+<br>
+Author:Asheesh shrivas
